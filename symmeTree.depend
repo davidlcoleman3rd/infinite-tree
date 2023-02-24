@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677209077 source:/home/dave/Documents/Code - Projects/C++/tree demo/symmeTree/symmetree.cpp
+	<vector>
+	<algorithm>
+	<math.h>
+	<iostream>
+	<string>
+
